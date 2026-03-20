@@ -1,0 +1,26 @@
+# Computer Vision & AI
+ultralytics>=8.0.0          # YOLOv8 for vehicle detection
+opencv-python>=4.8.0        # Video processing & traffic feeds
+opencv-python-headless>=4.8.0
+
+# Machine Learning & Prediction
+torch>=2.0.0                # PyTorch for deep learning
+tensorflow>=2.13.0          # TensorFlow for LSTM models
+scikit-learn>=1.3.0         # ML utilities
+
+# Data Processing
+numpy>=1.24.0               # Numerical computing
+pandas>=2.0.0               # Data handling & analytics
+
+# Visualization & Dashboard
+streamlit>=1.28.0           # Web dashboard
+plotly>=5.17.0              # Interactive charts
+altair>=5.1.0               # Declarative visualizations
+streamlit-webrtc>=0.45.0    # Real-time video in Streamlit
+streamlit-autorefresh>=1.0.0 # Auto-refresh for live data
+
+# Utilities
+Pillow>=10.0.0              # Image processing
+python-dotenv>=1.0.0        # Environment variables
+requests>=2.31.0            # HTTP requests for camera feeds
+av>=10.0.0                  # Audio/Video processing
